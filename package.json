@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "serve": "yarn install && vue-cli-service serve",
+    "build": "yarn install && vue-cli-service build"
   },
   "dependencies": {
     "atob": "^2.1.2",
@@ -12,6 +12,7 @@
     "btoa": "^1.2.1",
     "core-js": "^3.37.1",
     "element-ui": "^2.15.14",
+    "sub-web-modify": "file:",
     "vue": "^2.7.16",
     "vue-clipboard2": "^0.3.3",
     "vue-router": "^3.6.5"
