@@ -6,6 +6,9 @@
     "serve": "npm install && vue-cli-service serve",
     "build": "npm install && vue-cli-service build"
   },
+  "packageManager": {
+    "yarn@1.22.22"
+  },
   "dependencies": {
     "atob": "^2.1.2",
     "axios": "^1.7.2",
