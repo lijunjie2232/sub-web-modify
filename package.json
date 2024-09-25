@@ -6,9 +6,6 @@
     "serve": "npm install && vue-cli-service serve",
     "build": "npm install && vue-cli-service build"
   },
-  "packageManager": {
-    "yarn@1.22.22"
-  },
   "dependencies": {
     "atob": "^2.1.2",
     "axios": "^1.7.2",
@@ -18,7 +15,8 @@
     "sub-web-modify": "file:",
     "vue": "^2.7.16",
     "vue-clipboard2": "^0.3.3",
-    "vue-router": "^3.6.5"
+    "vue-router": "^3.6.5",
+    "yarn": "1.22.22"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
