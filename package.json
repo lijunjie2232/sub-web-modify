@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "yarn install && vue-cli-service serve",
-    "build": "yarn install && vue-cli-service build"
+    "serve": "npm install && vue-cli-service serve",
+    "build": "npm install && vue-cli-service build"
   },
   "dependencies": {
     "atob": "^2.1.2",
