@@ -15,8 +15,7 @@
     "sub-web-modify": "file:",
     "vue": "^2.7.16",
     "vue-clipboard2": "^0.3.3",
-    "vue-router": "^3.6.5",
-    "yarn": "1.22.22"
+    "vue-router": "^3.6.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
@@ -29,5 +28,6 @@
     "svg-sprite-loader": "^6.0.11",
     "vue-particles": "^1.0.9",
     "vue-template-compiler": "^2.6.14"
-  }
+  },
+  "packageManager": "yarn@1.22.22"
 }
